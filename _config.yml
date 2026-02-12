@@ -23,8 +23,8 @@ title: Amy Xiao
 description: >- # this means to ignore newlines until "baseurl:"
   Amy studies computing and technology design.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://awxiao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Squarethings
+url: "https://amywxiao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  amywxiao
 header_pages:
   - publications.html
   - blog.html
